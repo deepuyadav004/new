@@ -1,0 +1,149 @@
+h1 {
+    color: rgb(196, 143, 65);
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+}
+
+header{
+    background-image: url(https://miro.medium.com/max/1100/1*OlgqUIhvl5-9dZISlZ2-yQ.jpeg);
+    padding: 120px 20px;
+    margin: 0;
+    border: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.nav-links{
+    background-color: rgb(182, 124, 57);
+    padding: 10px;
+    text-align: left;
+    align-content: left;
+}
+.links{
+    list-style: none;
+    display: inline;
+    outline:none;
+    padding: 10px;
+    border: 0;
+}
+.link1{
+    display: inline;
+    padding: 20px;
+    height: 36px;
+}
+a {
+    display: inline;
+    height: 36px;
+}
+a:hover {
+    color: rgba(245, 241, 14, 0.918);
+}
+.image1 {
+    border-radius: 100%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+.image {
+    background-image;: url(C:\Users\deepak\Desktop\development\project 2\hd0987.mov);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+.name {
+    text-align: center;
+
+}
+.intro {
+    width: 300px;
+    text-align: center;
+    padding-left: 500px;
+    text-decoration-color: azure;
+    font-size: 25px
+}
+.fullscreen {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+h3 {
+    color: azure;
+}
+.hobbies {
+    list-style-type: disc;
+    display: block;
+    color: azure;
+    font-size: 25px;
+}
+.skills {
+    display: block;
+    color: azure;
+    font-size: 25px;
+    width: 400px;
+}
+
+
+.footer1 {
+    float: left;
+    width: 33%;
+    height: 300px;
+    padding: 0;
+    margin: 0;
+}
+.footer2 {
+    float: left;
+    width: 33%;
+    height: 300px;
+    padding: 0;
+    margin: 0;
+    
+}
+.footer3 {
+    float: right;
+    width: 32%;
+    height: 300px;
+    padding: 0;
+    margin: 0;
+}
+.footer-main {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+h5 {
+    color: azure;
+    font-size: 25px;
+}
+a {
+    color: rgb(219, 18, 192);
+    font-size: 25px;
+}
+textarea {
+    width: 300px;
+    height: 50px;
+    padding: 5px;
+    color: coral;
+}
+.email {
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+}
+button {
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    color: rgb(230, 71, 31);
+    background-color: cyan;
+}
